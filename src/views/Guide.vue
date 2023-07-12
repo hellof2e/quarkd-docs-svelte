@@ -6,9 +6,5 @@ import { defineComponent } from "vue";
 
 export default defineComponent({
   name: "guide",
-  components: {},
-  setup() {
-    return {};
-  },
 });
 </script>
